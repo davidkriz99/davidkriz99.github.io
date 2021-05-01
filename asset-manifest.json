@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.37595d66.chunk.css",
-    "main.js": "/static/js/main.8a45318d.chunk.js",
-    "main.js.map": "/static/js/main.8a45318d.chunk.js.map",
+    "main.css": "/static/css/main.eb8988da.chunk.css",
+    "main.js": "/static/js/main.df2bec64.chunk.js",
+    "main.js.map": "/static/js/main.df2bec64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.036fea6d.js",
     "runtime-main.js.map": "/static/js/runtime-main.036fea6d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.78b1852e.chunk.js.map": "/static/js/2.78b1852e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.37595d66.chunk.css.map": "/static/css/main.37595d66.chunk.css.map",
+    "static/css/main.eb8988da.chunk.css.map": "/static/css/main.eb8988da.chunk.css.map",
     "static/js/2.78b1852e.chunk.js.LICENSE.txt": "/static/js/2.78b1852e.chunk.js.LICENSE.txt",
     "static/media/app.css": "/static/media/libre-franklin-v7-latin-700.be98ed42.svg",
     "static/media/drive.329784f9.png": "/static/media/drive.329784f9.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.036fea6d.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.78b1852e.chunk.js",
-    "static/css/main.37595d66.chunk.css",
-    "static/js/main.8a45318d.chunk.js"
+    "static/css/main.eb8988da.chunk.css",
+    "static/js/main.df2bec64.chunk.js"
   ]
 }
