@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eb8988da.chunk.css",
-    "main.js": "/static/js/main.df2bec64.chunk.js",
-    "main.js.map": "/static/js/main.df2bec64.chunk.js.map",
+    "main.js": "/static/js/main.32b2462d.chunk.js",
+    "main.js.map": "/static/js/main.32b2462d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.036fea6d.js",
     "runtime-main.js.map": "/static/js/runtime-main.036fea6d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -14,18 +14,16 @@
     "static/js/2.78b1852e.chunk.js.LICENSE.txt": "/static/js/2.78b1852e.chunk.js.LICENSE.txt",
     "static/media/app.css": "/static/media/libre-franklin-v7-latin-700.be98ed42.svg",
     "static/media/drive.329784f9.png": "/static/media/drive.329784f9.png",
-    "static/media/facebook.121f353b.png": "/static/media/facebook.121f353b.png",
     "static/media/flickr.5846a16d.png": "/static/media/flickr.5846a16d.png",
     "static/media/instagram.00e418f5.png": "/static/media/instagram.00e418f5.png",
     "static/media/medium.6f9dfe52.png": "/static/media/medium.6f9dfe52.png",
-    "static/media/photos.35ff78d7.png": "/static/media/photos.35ff78d7.png",
-    "static/media/twitter.c30ad4ad.png": "/static/media/twitter.c30ad4ad.png"
+    "static/media/photos.35ff78d7.png": "/static/media/photos.35ff78d7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.036fea6d.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.78b1852e.chunk.js",
     "static/css/main.eb8988da.chunk.css",
-    "static/js/main.df2bec64.chunk.js"
+    "static/js/main.32b2462d.chunk.js"
   ]
 }
